@@ -1,0 +1,56 @@
+.Body-background{
+    width: 1368px;
+    height: 856px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.Logo{
+    width: 310px;
+    height: 122px;
+    margin-top: 20px;
+}
+
+.Body-group1{
+    width: 1200px;
+    height: 210px;
+    background: #EFEFEF;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Group1-p1{
+    width: 241px;
+    height: 21px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    margin-top: 38px;
+}
+
+.Group1-p2{
+    width: 972px;
+    height: 95px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    margin-top: 18px;
+}
+
+.Body-group2{
+
+}

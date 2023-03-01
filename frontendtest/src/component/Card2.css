@@ -1,0 +1,53 @@
+.Card-body{
+    width: 430px;
+    height: 252px;
+    background: #FFFFFF;
+
+}
+
+.Card-p{
+    width: 470px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-top: -25px;
+}
+
+.Card-group{
+    display: flex;
+    flex-direction: row;
+}
+
+.icon1{
+    width: 100px;
+    height: 100px;
+}
+
+.Card-group-p{
+    width: 326px;
+    height: 134px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    word-wrap: break-word;     
+}
+
+.Card-p2{
+    width: 470px;
+    height: 72px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    word-wrap: break-word; 
+    margin-top: -15px;
+}

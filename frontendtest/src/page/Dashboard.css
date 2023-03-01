@@ -1,0 +1,15 @@
+.Right-content{
+    margin-left: 150px;
+}
+.Card{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    margin-top: -430px;
+    margin-left: 20px;
+}
+
+.Bottom{
+    margin-top: 179px;
+    margin-left: 150px;
+}

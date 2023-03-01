@@ -1,0 +1,21 @@
+.Footer-main{
+    width:  1368px;
+    height: 79px;
+    background-color: #fff;
+    border-top: 1px solid #DEDEDE;
+    display: flex;
+    align-items: center;
+}
+
+.Footer-p{
+    width: 125px;
+    height: 19px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #3E3E3E;
+    margin-top: -30px;
+    margin-left: 120px;
+}

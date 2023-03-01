@@ -1,0 +1,114 @@
+.Side-background{
+    width: 150px;
+    height: 935px;
+    background-color: #191718;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+
+.Mouse{
+    position: absolute;
+    left: 120px;
+    top: 105px;
+}
+
+.Home-item{
+    width: 150px;
+    height: 44px;
+    background-color: #191718;
+    border-bottom: 1px solid #5C5C5C;
+}
+
+.Home-p{
+    width: 43px;
+    height: 19px;
+    margin-left: 16px;
+    margin-top: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #ffffff;
+    }
+
+.Services-item{
+    width: 150px;
+    height: 44px;
+    background: #191718;
+    border-bottom: 1px solid #5C5C5C;
+}
+
+.Services-p{
+    width: 63px;
+    height: 19px;
+    margin-left: 16px;
+    margin-top: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #AAAAAA;
+}
+
+.News-item{
+    width: 150px;
+    height: 44px;
+    background: #5C5C5C;
+    border-bottom: 1px solid #5C5C5C;
+}
+
+.News-p{
+    width: 40px;
+    height: 19px;
+    margin-left: 16px;
+    margin-top: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.Blog-item{
+    width: 150px;
+    height: 44px;
+    background: #191718;
+    border-bottom: 1px solid #5C5C5C;
+}
+
+.Blog-p{
+    width: 63px;
+    height: 19px;
+    margin-left: 16px;
+    margin-top: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #AAAAAA;
+}
+
+.Contact-item{
+    width: 150px;
+    height: 44px;
+    background: #191718;
+    border-bottom: 1px solid #5C5C5C;
+}
+
+.Contact-p{
+    width: 63px;
+    height: 19px;
+    margin-left: 16px;
+    margin-top: 14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #AAAAAA;
+}
